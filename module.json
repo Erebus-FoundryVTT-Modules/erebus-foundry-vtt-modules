@@ -1,0 +1,42 @@
+{
+  "name": "erebus-foundry-vtt-modules",
+  "title": "Erebus' Foundry VTT Modules",
+  "description": "A single module to install all of my modules at once as dependencies.",
+  "version": "1.0.0",
+  "author": "blargent",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.8.9",
+  "dependencies": [
+    {
+      "name": "dnd5e-expanded-chat-log-entry-context-menu-options",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-expanded-chat-log-entry-context-menu-options/main/module.json"
+    },
+    {
+      "name": "dnd5e-perfect-crits",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-perfect-crits/main/module.json"
+    },
+    {
+      "name": "dnd5e-quick-item-rolls",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-quick-item-rolls/main/module.json"
+    },
+    {
+      "name": "foundry-vtt-collapsible-journal-entry-headers",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-collapsible-journal-entry-headers/main/module.json"
+    },
+    {
+      "name": "foundry-vtt-dice-tray",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-dice-tray/main/module.json"
+    },
+    {
+      "name": "foundry-vtt-feather-icons",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons/main/module.json"
+    },
+    {
+      "name": "foundry-vtt-quick-module-context-menu-settings",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings/main/module.json"
+    }
+  ],
+  "url": "https://github.com/Erebus-FoundryVTT-Modules/erebus-foundry-vtt-modules",
+  "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/erebus-foundry-vtt-modules/main/module.json",
+  "download": "https://github.com/Erebus-FoundryVTT-Modules/erebus-foundry-vtt-modules/archive/refs/heads/main.zip"
+}
