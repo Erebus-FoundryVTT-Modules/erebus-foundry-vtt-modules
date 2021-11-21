@@ -19,6 +19,9 @@ Modules that will be imported:
 - foundry-vtt-dice-tray
   - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-dice-tray/main/module.json
   - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-dice-tray
+- foundry-vtt-expanded-status-effects
+  - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-expanded-status-effects/main/module.json
+  - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-expanded-status-effects
 - foundry-vtt-feather-icons
   - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons/main/module.json
   - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons
