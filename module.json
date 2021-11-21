@@ -2,7 +2,7 @@
   "name": "erebus-foundry-vtt-modules",
   "title": "Erebus' Foundry VTT Modules",
   "description": "A single module to install all of my modules at once as dependencies.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
@@ -26,6 +26,10 @@
     {
       "name": "foundry-vtt-dice-tray",
       "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-dice-tray/main/module.json"
+    },
+    {
+      "name": "foundry-vtt-expanded-status-effects",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-expanded-status-effects/main/module.json"
     },
     {
       "name": "foundry-vtt-feather-icons",
