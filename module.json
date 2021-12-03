@@ -2,7 +2,7 @@
   "name": "erebus-foundry-vtt-modules",
   "title": "Erebus' Foundry VTT Modules",
   "description": "A single module to install all of my modules at once as dependencies.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
@@ -34,6 +34,10 @@
     {
       "name": "foundry-vtt-feather-icons",
       "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons/main/module.json"
+    },
+    {
+      "name": "foundry-vtt-hotbar-lock",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-hotbar-lock/main/module.json"
     },
     {
       "name": "foundry-vtt-quick-module-context-menu-settings",

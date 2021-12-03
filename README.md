@@ -25,6 +25,9 @@ Modules that will be imported:
 - foundry-vtt-feather-icons
   - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons/main/module.json
   - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-feather-icons
+- foundry-vtt-hotbar-lock
+  - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-hotbar-lock/main/module.json
+  - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-hotbar-lock
 - foundry-vtt-quick-module-context-menu-settings
   - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings/main/module.json
   - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings
