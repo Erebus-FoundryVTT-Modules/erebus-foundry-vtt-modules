@@ -21,7 +21,7 @@
     },
     {
       "name": "dndbeyond-character-sheet-spell-source",
-      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dndbeyond-sheet-spell-source/main/module.json"
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dndbeyond-character-sheet-spell-source/main/module.json"
     },
     {
       "name": "foundry-vtt-collapsible-journal-entry-headers",
