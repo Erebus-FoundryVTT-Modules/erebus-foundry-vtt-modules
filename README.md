@@ -13,6 +13,9 @@ Modules that will be imported:
 - dnd5e-quick-item-rolls
   - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-quick-item-rolls/main/module.json
   - url: https://github.com/Erebus-FoundryVTT-Modules/dnd5e-quick-item-rolls
+- dndbeyond-character-sheet-spell-source
+  - url: https://github.com/Erebus-FoundryVTT-Modules/dndbeyond-sheet-spell-source
+  - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dndbeyond-sheet-spell-source/main/module.json
 - foundry-vtt-collapsible-journal-entry-headers
   - manifest: https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-collapsible-journal-entry-headers/main/module.json
   - url: https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-collapsible-journal-entry-headers

@@ -2,7 +2,7 @@
   "name": "erebus-foundry-vtt-modules",
   "title": "Erebus' Foundry VTT Modules",
   "description": "A single module to install all of my modules at once as dependencies.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.8.9",
@@ -18,6 +18,10 @@
     {
       "name": "dnd5e-quick-item-rolls",
       "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dnd5e-quick-item-rolls/main/module.json"
+    },
+    {
+      "name": "dndbeyond-character-sheet-spell-source",
+      "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/dndbeyond-sheet-spell-source/main/module.json"
     },
     {
       "name": "foundry-vtt-collapsible-journal-entry-headers",
