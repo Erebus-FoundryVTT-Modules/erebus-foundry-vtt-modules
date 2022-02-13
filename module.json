@@ -2,7 +2,7 @@
   "name": "erebus-foundry-vtt-modules",
   "title": "Erebus' Foundry VTT Modules",
   "description": "A single module to install all of my modules at once as dependencies.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "9.245",
